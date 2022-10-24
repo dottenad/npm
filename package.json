@@ -2,6 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dan Ottenad",
 	"description": "this is a description",
+	"keywords": [
+		"This",
+		"That",
+		"The other thing"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
